@@ -29,7 +29,7 @@ const Projects = () => {
           des="Developed a full-stack chat app using the MERN stack with real-time messaging, 
           JWT authentication, group chat, profile management, responsive design, and search functionality."
           src={chatting}
-          link="'https://talk-a-tive-7fgq.onrender.com/"
+          link="https://talk-a-tive-7fgq.onrender.com/"
         />
         <ProjectsCard
           title="Video Streaming Website"
